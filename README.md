@@ -1,1 +1,1 @@
- https://prestx.github.io/rsschool-cv/cv
+ https://prestx.github.io/rsschool-cv/
